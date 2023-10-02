@@ -1,4 +1,4 @@
-# odin-recepies
+# odin-recipes
 Odin prpject #1 Recepies
 
 For this project I had to go to Github and creat a new repository, after creating it, I downloaded it
