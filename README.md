@@ -16,3 +16,6 @@ I used all the necessary steps to add titles, images, link pages and all to make
 
 Lets continue then.
 
+I had some issues going on due to a change that I made to the index.html. I changed it to Menu thinking that it 
+would be better so have it that way, which was a terrible mistake. Thanks to a person named vimukthi I could fix it. After pulling and pushing it back, everything is back to normal now. Awesome!!!
+
