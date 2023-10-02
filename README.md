@@ -7,3 +7,12 @@ commands in terminal: git clone and the SSH key, in this case: git@github.com:cr
 
 With that command, I was able to connect the repository to the local folder. Now, I opened the folder in VS and 
 will start to work accordingly.
+
+Proceeding with the recipes...
+
+After following the step by step guide, I learned how to properly add files, changes made to them, commit and push and pull in git after editing my project.
+
+I used all the necessary steps to add titles, images, link pages and all to make a simple menu page.
+
+Lets continue then.
+
